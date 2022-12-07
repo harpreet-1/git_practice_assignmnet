@@ -1,7 +1,7 @@
-let num =15;
+let n =15;
 let result =true;
-for(let i=2;i<Math.sqrt(num);i++){
-	if(num%i==0){
+for(let i=2;i<Math.sqrt(n);i++){
+	if(n%i==0){
 		result= false;
 
 	}
